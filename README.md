@@ -156,7 +156,7 @@ Traditional ML models performed strongly on structured features, while deep lear
 ├── reports/
 │   └── retail_demand_forecasting_report.pdf
 ├── api/
-│   └── main.py
+│   └── app_advanced.py
 ├── requirements.txt
 └── README.md
 ```
